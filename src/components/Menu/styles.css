@@ -1,0 +1,11 @@
+nav.menu{
+  margin-top: 5px;
+  
+}
+
+nav.menu ul li{
+    margin: 0 auto;
+    display: inline;
+    margin-left: 5px;
+    color: white;
+}
